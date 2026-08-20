@@ -24,5 +24,5 @@ function ligaDesliga(){
     return ligado ? "Ligado" : "Desligado"
 }
 console.log(ligaDesligar());
-console.log(ligaDesligar());
+console.log(ligaDesligar()); 
 
